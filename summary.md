@@ -7,7 +7,7 @@ GitHub为免费的远程仓库,GitHub还是一个开源协作社区，通过GitH
 
 
 ## GIT: Installation, Configuration and First Commit
-**到[官网](https://git-scm.com/)进行下载**  
+**到[官网](https://git-scm.com/)进行下载并安装**  
 
 **设置用户名和邮箱**  
 设置全局用户名  
