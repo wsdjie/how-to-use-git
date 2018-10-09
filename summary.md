@@ -41,7 +41,7 @@ cd XXX
 `git log`   
 
 # GIT: Working with Branches  
-**创建一个分支**
+**创建一个分支**  
 `git branch xxx`  
 
 **切换到某分支**
